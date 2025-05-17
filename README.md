@@ -6,10 +6,6 @@ Este es un juego clásico de **Buscaminas** desarrollado completamente en HTML, 
 
 Puedes jugar directamente abriendo el archivo `index.html` en tu navegador.
 
-## 📸 Captura de pantalla
-
-(Agrega aquí una imagen si deseas mostrar cómo se ve el juego)
-
 ## 🕹️ ¿Cómo se juega?
 
 - El objetivo es descubrir todas las celdas **que no tienen minas**.
