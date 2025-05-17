@@ -57,5 +57,5 @@ El porcentaje de minas
 
 Las imágenes usadas para minas y banderas
 
-## 🧑‍💻 Autor
+## 💻 Autor
 Desarrollado por nasar0 .
